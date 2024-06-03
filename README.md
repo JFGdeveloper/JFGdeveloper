@@ -1,8 +1,10 @@
 ## Hi there 👋 I am Jfg
 
-<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
-<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
-<p align="center" width="150px">I am an Android mobile developer, who loves working as a team. 🔭 I’m currently working like frelance .</p>
+<p align="center"><img src="https://github.com/JFGdeveloper/CV/blob/master/imagenesgit/banner_javi.png"></p>
+<p align="center"><img src="https://github.com/JFGdeveloper/CV/blob/master/imagenesgit/android_banner.png"></p>
+I am an Android mobile developer, I have been working on my own projects for more than two years.
+I am currently considering joining a team
+🔭 I'm currently working on Weekends.
 
 ### 🛠 &nbsp;Tech Stack
 
