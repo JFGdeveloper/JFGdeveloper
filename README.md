@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Jfg
 
 <p align="center"><img src="https://github.com/JFGdeveloper/CV/blob/master/imagenesgit/banner_javi.png"></p>
-<p align="center"><img src="https://github.com/JFGdeveloper/CV/blob/master/imagenesgit/android_banner.png"></p>
+<p align="center"><img src="https://github.com/JFGdeveloper/Banners/blob/master/android_banner.png"></p>
 I am an Android mobile developer, I have been working on my own projects for more than two years.
 I am currently considering joining a team
 🔭 I'm currently working on Weekends.
